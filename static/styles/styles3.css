@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: rgb(88, 18, 142);
+}
+.wrapper {
+    width: 420 vh;
+    background: rgb(11, 128, 0);
+    color: #fff;
+}
